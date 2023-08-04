@@ -1,6 +1,6 @@
 package com.tcwang;
 
-import com.tcwang.interfaces.core.FillUpMappingUtils;
+import com.tcwang.core.FillUpMappingUtils;
 import com.tcwang.entity.Customer;
 import com.tcwang.entity.DataFromUser;
 
