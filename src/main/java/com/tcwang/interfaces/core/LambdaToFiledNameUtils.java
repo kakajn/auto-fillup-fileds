@@ -1,4 +1,4 @@
-package com.tcwang.core;
+package com.tcwang.interfaces.core;
 
 import com.tcwang.interfaces.TGet;
 
